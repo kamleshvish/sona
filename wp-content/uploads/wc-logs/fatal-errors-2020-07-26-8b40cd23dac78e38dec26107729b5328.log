@@ -1,0 +1,2 @@
+2020-07-26T16:39:11+00:00 CRITICAL Out of memory (allocated 41943040) (tried to allocate 65536 bytes) in C:\xampp\htdocs\sona\wp-content\plugins\woocommerce\packages\action-scheduler\classes\abstracts\ActionScheduler_Abstract_Schema.php on line 56
+
